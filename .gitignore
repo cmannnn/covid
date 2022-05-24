@@ -4,3 +4,5 @@
 =======
 .ipynb_checkpoints
 >>>>>>> 60cdd6192f768cd5665df3079f374d66dd3fffb6
+.gitignore.orig
+covid/covid-data.csv
